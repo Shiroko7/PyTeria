@@ -4,7 +4,7 @@ from scipy.io import wavfile
 import numpy as np
 import pygame
 import sys
-
+#Esas dos funciones podrian servirnos de algo
 """def speedx(snd_array, factor):
 	# Speeds up / slows down a sound, by some factor.
 		indices = np.round(np.arange(0, len(snd_array), factor))
