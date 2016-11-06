@@ -17,7 +17,9 @@ la weaita esta programada para que funcione asi:
 
         carpeta configs:
           almacena todas las configuraciones
-
+                cada archivo .cfg tiene la estructur kit;;TOCANDO1::TOCANDO2.....::TOCANDON
+                
+                donde kit es el nombre de la sub-carpeta con los archivos .wav, y TOCANDOX la configuracion de las piezas
   
 
 El Arduinoria.py hace toda la weaita por el momento falta por implementar la interfaz gráfica
