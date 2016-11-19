@@ -4,7 +4,8 @@ TEST
 E
 S
 T
-
+ main.py tiene el loop de la bateria 
+ funciones.py tiene las funciones que se encargan de recorrer todos los archivos para que funcione, configuraciones y sonidos.
 
 la weaita esta programada para que funcione asi:
 
