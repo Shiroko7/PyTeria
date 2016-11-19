@@ -38,7 +38,7 @@ def main(cfg):
 		key_sound[key]=list()
 		key_sound[key].append(sound)
 		key_sound[key].append(0)
-		key_sound[key].append(umbral)# por mientras es la misma para todas
+		key_sound[key].append(umbral)# por mientras es la misma para todas ##!! el valor minimo que puse en arduino es 10, deberia ir entre 10 y 200(?)
 	key = "xd"
 	F = ""
 	lines = set()
