@@ -10,7 +10,7 @@ T
 la weaita esta programada para que funcione asi:
 
         Carpeta principal:
-          deberia tener main.py y las carpetas configs y kits
+          deberia tener main.py, funciones.py y las carpetas configs y kits
 
         carpeta kits:
           dentro de esta va cada sub-carpeta con archivos .wav
