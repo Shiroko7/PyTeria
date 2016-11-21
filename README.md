@@ -4,6 +4,7 @@ TEST
 E
 S
 T
+
  main.py tiene el loop de la bateria 
  funciones.py tiene las funciones que se encargan de recorrer todos los archivos para que funcione, configuraciones y sonidos.
 
@@ -21,9 +22,6 @@ la weaita esta programada para que funcione asi:
                 
                 donde kit es el nombre de la sub-carpeta con los archivos .wav, y TOCANDOX la configuracion de las piezas
 
-Quiero agregar una weaita para cambiar el umbral de activación de una pieza mientras tocas, el arduino esta programado para que tenga uno minimo pero en caso que sea muy sensible cambiarlo
 
 Descompriman el zip con los sonidos de la bateria
 
-La tecla ESC cierra el Arduinoria
-SPACE detiene el loop de la bateria y regresa a la interfaz
