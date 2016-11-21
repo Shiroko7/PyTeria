@@ -17,8 +17,10 @@ la weaita esta programada para que funcione asi:
           dentro de esta va cada sub-carpeta con archivos .wav
 
         carpeta configs:
+          piezas.txt tiene las claves disponibles para el funcionamiento
           almacena todas las configuraciones
                 cada archivo .cfg tiene la estructur kit;;TOCANDO1::TOCANDO2.....::TOCANDON
+                
                 
                 donde kit es el nombre de la sub-carpeta con los archivos .wav, y TOCANDOX la configuracion de las piezas
 
